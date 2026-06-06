@@ -1,8 +1,8 @@
-# Server
+# AI Server
 
-This folder will contain the remote AI inference server.
+Responsible for AI inference.
 
-Future work:
-- Receive screenshots from sandbox
-- Run AI processing
-- Return actions to client
+Responsibilities:
+- Receive screenshots
+- Run CLIP Vision Transformer inference
+- Return predicted actions
