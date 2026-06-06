@@ -1,0 +1,7 @@
+pyautogui
+pywinauto
+pillow
+torch
+clip-anytorch
+pytesseract
+requests
