@@ -1,9 +1,9 @@
 # Client
 
-This folder contains the installer automation clicker.
+Runs inside the sandbox VM.
 
-The client:
-- Detects installer windows
-- Uses OCR and UI automation
-- Clicks installation buttons automatically
-- Interacts with the sandbox VM
+Responsibilities:
+- Capture screenshots
+- Detect installer windows
+- Send screenshots to AI server
+- Execute UI automation
