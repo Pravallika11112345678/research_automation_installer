@@ -1,7 +1,9 @@
+Flask
+requests
+torch
 pyautogui
 pywinauto
-pillow
-torch
-clip-anytorch
 pytesseract
-requests
+opencv-python
+Pillow
+numpy
